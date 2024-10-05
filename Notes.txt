@@ -1,5 +1,8 @@
 info.c
 
+https://github.com/jamieduk/SysInfo
+
+
 sudo apt-get update
 sudo apt install -y libgtk-3-dev
 
